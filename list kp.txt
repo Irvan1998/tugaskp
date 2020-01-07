@@ -1,0 +1,9 @@
+list :
+1. login
+2. register user 
+3. Halaman Utama
+-Admin (Barang masuk, barang keluar, barang yang hampir habis, supplier barang, menu product, nama barang, pengguna, kategori barang, kategori product, 
+grafik penjualan (bulan, tahun), grafik barang masuk (bulan, tahun), grafik barang keluar (bulan, tahun), grafik stock barang, 
+laporan penjualan(bulan, tahun), laporan barang masuk(bulan, tahun), laporan barang keluar, laporan stock barang)
+-User (kategori, pembelian product, pembelian masuk keranjang, pembayaran)
+4. Logout
